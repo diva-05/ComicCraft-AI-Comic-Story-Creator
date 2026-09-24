@@ -8,8 +8,8 @@ ComicCraft is an AI-powered comic story generator using Google Gemini models. It
 - [x] Phase 3: Model Selection & Setup
 - [x] Phase 4: Backend Integration
 - [x] Phase 5: Core Functionalities Development
-- [ ] Phase 6: Project Testing
-- [ ] Phase 7: Project Documentation
+- [X] Phase 6: Project Testing
+- [X] Phase 7: Project Documentation
 - [x] Phase 8: Project Demonstration
 
 ## Demo Video
